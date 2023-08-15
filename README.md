@@ -15,6 +15,18 @@ Se utilizaron herramientas de Visual Studio para el proceso de ETL desde la BD t
 
 Se utilizó Power BI para la creación del Tablero de control empresarial, allí se incluyen visualizaciones del desempeño de las ventas de la empresa.
 
+El archivo Dashboard_TP.pbix contiene las visualizaciones del DataWarehouse mediante PowerBI.
+
+El archivo Query_TP_DATAWAREHOUSE.sql contiene las queries para crear el DataWarehouse en SQL.
+
+El archivo TRADEProd_29032023.zip es un backup de la base de datos transaccional de la empresa.
+
+El archivo TUIA-BBDD2_TP-UNIDAD1.pdf contiene las consignas del trabajo.
+
+El archivo TP_FINAL_BD2-Enzo_Ferrari.pdf contiene el informe creado por el alumno.
+
+Dentro de la carpeta TP2-BD2 se encuentra el proyecto de Visual Studio para el proceso ETL.
+
 ------o------
 
 Final Practical Work of the Database 2 subject.
@@ -30,3 +42,15 @@ For this work, SQL Server and SQL Managment Studio were used for the processing 
 Visual Studio tools were used for the ETL process from the transactional BD to the DataWarehouse.
 
 Power BI was used for the creation of the business dashboard, there visualizations of the company’s sales performance are included.
+
+The Dashboard_TP.pbix file contains the DataWarehouse visualizations using PowerBI.
+
+The Query_TP_DATAWAREHOUSE.sql file contains the queries to create the DataWarehouse in SQL.
+
+The TRADEProd_29032023.zip file is a backup of the company’s transactional database.
+
+The TUIA-BBDD2_TP-UNIDAD1.pdf file contains the work instructions.
+
+The TP_FINAL_BD2-Enzo_Ferrari.pdf file contains the report created by the student.
+
+Inside the TP2-BD2 folder is the Visual Studio project for the ETL process.
