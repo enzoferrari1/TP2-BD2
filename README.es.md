@@ -44,3 +44,9 @@ Se utilizó Power BI para la creación del Tablero de control empresarial, allí
 ## Uso
 Simplemente abra cada archivo con su respectivo programa, ejecutando la query de SQL. Es probable que se deban cambiar las conexiones en el proyecto de Visual Studio manualmente.
 
+
+## Imágenes
+
+![image](https://github.com/enzoferrari1/TP2-BD2/assets/109885056/21a2aad7-d835-4594-a4a5-4cc891de14f1)
+![image](https://github.com/enzoferrari1/TP2-BD2/assets/109885056/405684f6-89aa-4592-818e-673ae057925c)
+![image](https://github.com/enzoferrari1/TP2-BD2/assets/109885056/ac663b86-883a-48f5-a0d0-145eac82db90)
