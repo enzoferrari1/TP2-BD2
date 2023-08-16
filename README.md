@@ -1,44 +1,37 @@
-# Trabajo Práctico - Bases de Datos 2
-Trabajo Práctico Final de la materia Base de Datos 2.
+[![en](https://img.shields.io/badge/lang-es-aquamarine.svg)](https://github.com/enzoferrari1/TP2-BD2/blob/master/README.es.md)
 
-## Hecho con
-- SQL Managment Studio.
+
+# Project - Bases de Datos 2
+Final Project for the subject Base de Datos 2.
+
+## Made with
+- SQL Management Studio.
 - Visual Studio SSIS Toolbox.
-- PowerBI
+- Power BI.
+## Description
+This project emphasizes in the creation of a Data Warehouse.
 
-## Descripción
-Este trabajo se enfatiza en la creación de un Datawarehouse.
+A transactional database is given, and based on information regarding the company's activities, an analysis of these activities is desired. This is achieved by designing and creating a Data Warehouse, including the corresponding ETL process and proper visualization through a Control Dashboard.
 
-Se cuenta con una base de datos transaccional la cual según información respecto de las actividades de la empresa, se desea poder realizar un análisis sobre las actividades de esta mediante el diseño y creación de un DataWarehouse, que incluye el respectivo proceso de ETL y una adecuada visualización desde un Tablero de Control.
+Detailed project guidelines are provided in the assignment. The project focuses on the activities of a company called TRADEPROD, with sales being the main events.
 
-Las consignas del trabajo están más detalladas en el enunciado. Se trabajará sobre las actividades de una empresa cuyos hechos principales son las ventas.
+### Contents
+The transactional database is provided in the form of a SQL backup file in the compressed file.
 
-### Contenido
+SQL Server and SQL Management Studio were used for processing the transactional database and creating tables in our Data Warehouse.
 
-La base de datos transaccional está dada en forma de un backup de SQL, dentro del archivo comprimido.
+The creation of tables and dimensions in the Data Warehouse is included in the SQL query file.
 
-Se utilizó SQL Server y SQL Managment Studio para el procesamiento de la base de datos transaccional y también para la creacion de las tablas de nuestro DataWarehouse.
+Visual Studio tools were used for the ETL process from the transactional database to the Data Warehouse.
 
-La creación de las tablas y dimensiones del DataWarehouse están presentes en el archivo query de SQL.
+Power BI was utilized to create the company's Control Dashboard, including visualizations of sales performance as required by the project guidelines.
 
-Se utilizaron herramientas de Visual Studio para el proceso de ETL desde la BD transaccional hasta el DataWarehouse.
-
-Se utilizó Power BI para la creación del Tablero de control empresarial, allí se incluyen visualizaciones del desempeño de las ventas de la empresa según lo requerido por las consignas del trabajo.
-
-### Archivos
-
-- Dashboard_TP.pbix contiene las visualizaciones del DataWarehouse mediante PowerBI.
-
-- Query_TP_DATAWAREHOUSE.sql contiene las queries para crear el DataWarehouse en SQL.
-
-- TRADEProd_29032023.zip es un backup de la base de datos transaccional de la empresa.
-
-- TUIA-BBDD2_TP-UNIDAD1.pdf y BasesDatos2-2023-TP-FINAL.pdf contiene las consignas del trabajo.
-
-- TP_FINAL_BD2-Enzo_Ferrari.pdf contiene el informe creado por el alumno.
-
-- Dentro de la carpeta TP2-BD2 se encuentra el proyecto de Visual Studio para el proceso ETL.
-
-## Uso
-Simplemente abra cada archivo con su respectivo programa, ejecutando la query de SQL. Es probable que se deban cambiar las conexiones en el proyecto de Visual Studio manualmente.
-
+## Files
+- Dashboard_TP.pbix contains Data Warehouse visualizations through Power BI.
+- Query_TP_DATAWAREHOUSE.sql contains the queries to create the Data Warehouse in SQL.
+- TRADEProd_29032023.zip is a backup of the company's transactional database.
+- TUIA-BBDD2_TP-UNIDAD1.pdf and BasesDatos2-2023-TP-FINAL.pdf contain the project guidelines.
+- TP_FINAL_BD2-Enzo_Ferrari.pdf contains the report created by the student.
+- Within the TP2-BD2 folder, the Visual Studio project for the ETL process is located.
+### Usage
+Simply open each file with its respective program and execute the SQL query. It might be necessary to manually adjust connections in the Visual Studio project.
