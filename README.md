@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/enzoferrari1/TP2-BD2/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/enzoferrari1/TP2-BD2/blob/master/README.en.md)
 
 # Trabajo Práctico - Bases de Datos 2
 Trabajo Práctico Final de la materia Base de Datos 2.
