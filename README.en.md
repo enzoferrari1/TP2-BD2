@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-es-aquamarine.svg)](https://github.com/enzoferrari1/TP2-BD2/blob/master/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-aquamarine.svg)](https://github.com/enzoferrari1/TP2-BD2/blob/master/README.md)
 
 
 # Project - Bases de Datos 2
